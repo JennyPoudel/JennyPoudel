@@ -1,7 +1,7 @@
 ### Hi, I am Jenny
 
-### Passionate about:
+### I know:
 
 - Machine Learning
 - Python
-- JavaScript
+- JavaScript and related frameworks
