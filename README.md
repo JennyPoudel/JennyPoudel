@@ -1,7 +1,7 @@
 ### Hi, I am Jenny
 
-### I know:
+### My interests:
 
-- Machine Learning
-- Python
+- Machine Learning and AI
+- Python 
 - JavaScript and related frameworks
